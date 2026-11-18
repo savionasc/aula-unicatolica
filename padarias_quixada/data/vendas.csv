@@ -1,0 +1,301 @@
+data,padaria,produto,quantidade,preco_unitario
+2025-06-15,Uberlândia,Bolos,11,25.0
+2025-01-25,Rainha da Paz,Pães,2,8.5
+2025-07-07,Rainha da Paz,Pães,4,8.5
+2025-01-20,Uberlândia,Pães,7,8.5
+2025-02-05,QPão,Bolos,9,25.0
+2025-08-06,Rainha da Paz,Pães,2,8.5
+2025-04-25,Rainha da Paz,Pães,10,8.5
+2025-07-23,Disk-Pão,Pães,1,8.5
+2025-10-13,PNSPS,Bolos,7,25.0
+2025-03-15,Rainha da Paz,Pães,5,8.5
+2025-10-14,QPão,Bolos,10,25.0
+2025-10-20,PNSPS,Bolos,2,25.0
+2025-10-08,Rainha da Paz,Pães,1,8.5
+2025-11-13,Uberlândia,Bolos,11,25.0
+2025-09-30,PNSPS,Bebidas,8,7.0
+2025-10-27,PNSPS,Bebidas,5,7.0
+2025-05-08,Disk-Pão,Bolos,2,25.0
+2025-10-22,Rainha da Paz,Salgados,8,6.0
+2025-06-25,PNSPS,Bebidas,10,7.0
+2025-02-07,Rainha da Paz,Pães,7,8.5
+2025-03-26,Disk-Pão,Salgados,8,6.0
+2025-08-04,QPão,Pães,9,8.5
+2025-10-21,PNSPS,Salgados,12,6.0
+2025-06-29,Rainha da Paz,Bebidas,8,7.0
+2025-02-05,PNSPS,Pães,8,8.5
+2025-12-23,QPão,Pães,12,8.5
+2025-12-26,Rainha da Paz,Salgados,11,6.0
+2025-08-17,Uberlândia,Salgados,11,6.0
+2025-06-27,Uberlândia,Pães,6,8.5
+2025-03-28,Uberlândia,Pães,1,8.5
+2025-04-22,Disk-Pão,Salgados,12,6.0
+2025-05-07,Uberlândia,Bebidas,8,7.0
+2025-02-11,Uberlândia,Bolos,7,25.0
+2025-10-09,Disk-Pão,Salgados,7,6.0
+2025-10-09,Uberlândia,Salgados,6,6.0
+2025-12-16,Disk-Pão,Bebidas,3,7.0
+2025-02-12,Disk-Pão,Bolos,4,25.0
+2025-12-04,QPão,Bolos,8,25.0
+2025-10-29,PNSPS,Bolos,5,25.0
+2025-01-03,Uberlândia,Bolos,9,25.0
+2025-07-09,Disk-Pão,Salgados,12,6.0
+2025-09-21,Uberlândia,Pães,11,8.5
+2025-10-14,Uberlândia,Bebidas,7,7.0
+2025-07-21,Uberlândia,Pães,11,8.5
+2025-07-25,Disk-Pão,Pães,2,8.5
+2025-04-17,Disk-Pão,Bebidas,2,7.0
+2025-06-24,QPão,Pães,1,8.5
+2025-10-18,Rainha da Paz,Bolos,2,25.0
+2025-07-06,QPão,Pães,4,8.5
+2025-11-11,Disk-Pão,Bebidas,11,7.0
+2025-05-10,Rainha da Paz,Salgados,6,6.0
+2025-08-31,QPão,Pães,8,8.5
+2025-08-27,Uberlândia,Bebidas,5,7.0
+2025-02-13,QPão,Bolos,12,25.0
+2025-06-25,Uberlândia,Salgados,12,6.0
+2025-03-24,Disk-Pão,Pães,9,8.5
+2025-07-05,Rainha da Paz,Bolos,1,25.0
+2025-09-28,QPão,Salgados,12,6.0
+2025-05-14,Disk-Pão,Salgados,6,6.0
+2025-04-25,Disk-Pão,Salgados,10,6.0
+2025-04-10,Uberlândia,Bolos,12,25.0
+2025-04-27,Rainha da Paz,Bolos,8,25.0
+2025-07-02,QPão,Pães,5,8.5
+2025-08-30,Disk-Pão,Salgados,12,6.0
+2025-11-06,Uberlândia,Salgados,12,6.0
+2025-06-28,QPão,Salgados,4,6.0
+2025-02-22,Uberlândia,Bolos,4,25.0
+2025-06-22,Uberlândia,Bolos,10,25.0
+2025-11-09,Uberlândia,Pães,11,8.5
+2025-06-26,QPão,Pães,7,8.5
+2025-12-31,Uberlândia,Bolos,3,25.0
+2025-08-11,QPão,Salgados,12,6.0
+2025-07-22,Uberlândia,Bebidas,12,7.0
+2025-02-13,Disk-Pão,Bolos,3,25.0
+2025-01-15,Rainha da Paz,Bolos,8,25.0
+2025-12-02,Rainha da Paz,Bolos,10,25.0
+2025-08-31,Disk-Pão,Salgados,9,6.0
+2025-10-08,QPão,Bolos,1,25.0
+2025-11-29,Rainha da Paz,Pães,12,8.5
+2025-03-13,Disk-Pão,Bebidas,4,7.0
+2025-01-15,Disk-Pão,Salgados,5,6.0
+2025-09-14,Rainha da Paz,Bolos,6,25.0
+2025-05-13,Disk-Pão,Bebidas,1,7.0
+2025-07-01,Rainha da Paz,Bebidas,9,7.0
+2025-08-04,Rainha da Paz,Bolos,3,25.0
+2025-09-26,Uberlândia,Pães,3,8.5
+2025-11-08,Disk-Pão,Pães,3,8.5
+2025-03-14,Rainha da Paz,Bebidas,12,7.0
+2025-03-03,PNSPS,Pães,11,8.5
+2025-09-23,QPão,Bebidas,9,7.0
+2025-01-30,Disk-Pão,Bolos,5,25.0
+2025-01-22,Rainha da Paz,Pães,8,8.5
+2025-10-15,QPão,Pães,8,8.5
+2025-06-16,PNSPS,Bolos,8,25.0
+2025-09-18,Rainha da Paz,Bebidas,4,7.0
+2025-12-24,Rainha da Paz,Salgados,4,6.0
+2025-08-18,Uberlândia,Bolos,2,25.0
+2025-07-20,PNSPS,Bebidas,2,7.0
+2025-12-10,Uberlândia,Bolos,2,25.0
+2025-04-19,QPão,Salgados,3,6.0
+2025-11-26,Disk-Pão,Salgados,5,6.0
+2025-03-12,Disk-Pão,Bebidas,12,7.0
+2025-02-18,Uberlândia,Bebidas,3,7.0
+2025-12-08,Disk-Pão,Bolos,12,25.0
+2025-08-09,PNSPS,Bebidas,7,7.0
+2025-04-11,PNSPS,Salgados,2,6.0
+2025-07-07,PNSPS,Pães,9,8.5
+2025-08-23,QPão,Bebidas,7,7.0
+2025-06-19,Rainha da Paz,Salgados,2,6.0
+2025-02-27,QPão,Bolos,2,25.0
+2025-05-16,QPão,Salgados,3,6.0
+2025-05-19,Uberlândia,Bolos,11,25.0
+2025-05-13,Disk-Pão,Bebidas,9,7.0
+2025-09-21,PNSPS,Bebidas,2,7.0
+2025-05-23,Disk-Pão,Pães,7,8.5
+2025-02-07,QPão,Salgados,11,6.0
+2025-02-15,QPão,Salgados,10,6.0
+2025-04-24,PNSPS,Pães,2,8.5
+2025-08-21,PNSPS,Pães,9,8.5
+2025-08-02,Rainha da Paz,Salgados,3,6.0
+2025-01-23,QPão,Bolos,3,25.0
+2025-05-15,Disk-Pão,Pães,4,8.5
+2025-06-09,Rainha da Paz,Salgados,4,6.0
+2025-05-29,Rainha da Paz,Bebidas,11,7.0
+2025-04-02,PNSPS,Salgados,1,6.0
+2025-05-09,QPão,Pães,1,8.5
+2025-09-16,Rainha da Paz,Bolos,8,25.0
+2025-05-06,QPão,Bebidas,11,7.0
+2025-11-29,Uberlândia,Bebidas,9,7.0
+2025-07-21,Disk-Pão,Salgados,4,6.0
+2025-06-25,Disk-Pão,Bolos,7,25.0
+2025-06-27,Disk-Pão,Pães,1,8.5
+2025-02-06,Uberlândia,Salgados,3,6.0
+2025-01-29,Uberlândia,Pães,9,8.5
+2025-12-10,Rainha da Paz,Salgados,4,6.0
+2025-12-21,QPão,Salgados,8,6.0
+2025-04-05,PNSPS,Bolos,8,25.0
+2025-01-02,PNSPS,Salgados,6,6.0
+2025-10-08,Disk-Pão,Salgados,1,6.0
+2025-06-08,PNSPS,Bolos,3,25.0
+2025-01-01,Uberlândia,Salgados,2,6.0
+2025-09-01,Rainha da Paz,Salgados,11,6.0
+2025-04-13,Rainha da Paz,Bolos,1,25.0
+2025-02-16,QPão,Salgados,3,6.0
+2025-07-24,Uberlândia,Pães,1,8.5
+2025-06-03,Disk-Pão,Salgados,2,6.0
+2025-10-27,Rainha da Paz,Bolos,7,25.0
+2025-06-16,Disk-Pão,Bebidas,5,7.0
+2025-11-13,QPão,Bolos,12,25.0
+2025-09-20,Rainha da Paz,Bebidas,3,7.0
+2025-09-26,Rainha da Paz,Pães,12,8.5
+2025-12-16,QPão,Bolos,1,25.0
+2025-01-22,PNSPS,Bolos,2,25.0
+2025-07-12,Rainha da Paz,Bebidas,1,7.0
+2025-11-18,Rainha da Paz,Pães,11,8.5
+2025-05-06,PNSPS,Bebidas,1,7.0
+2025-08-22,Rainha da Paz,Pães,9,8.5
+2025-02-17,Uberlândia,Pães,5,8.5
+2025-02-08,Disk-Pão,Salgados,12,6.0
+2025-04-16,Uberlândia,Bolos,8,25.0
+2025-07-15,Uberlândia,Pães,11,8.5
+2025-05-28,Rainha da Paz,Pães,11,8.5
+2025-11-26,QPão,Bolos,10,25.0
+2025-03-17,PNSPS,Salgados,11,6.0
+2025-12-21,Rainha da Paz,Salgados,10,6.0
+2025-03-10,Uberlândia,Pães,1,8.5
+2025-09-06,QPão,Salgados,12,6.0
+2025-04-22,PNSPS,Bebidas,12,7.0
+2025-09-22,Uberlândia,Salgados,8,6.0
+2025-08-27,Rainha da Paz,Pães,4,8.5
+2025-06-09,Uberlândia,Pães,1,8.5
+2025-05-29,QPão,Bebidas,9,7.0
+2025-08-19,Uberlândia,Salgados,4,6.0
+2025-04-18,Rainha da Paz,Pães,2,8.5
+2025-03-14,PNSPS,Salgados,3,6.0
+2025-11-05,QPão,Salgados,12,6.0
+2025-07-06,Uberlândia,Bolos,8,25.0
+2025-07-21,Disk-Pão,Pães,1,8.5
+2025-09-09,Uberlândia,Bebidas,5,7.0
+2025-03-14,PNSPS,Bebidas,7,7.0
+2025-06-11,PNSPS,Pães,1,8.5
+2025-06-16,Uberlândia,Salgados,2,6.0
+2025-04-11,PNSPS,Pães,5,8.5
+2025-07-10,Uberlândia,Pães,7,8.5
+2025-10-29,PNSPS,Pães,7,8.5
+2025-05-21,PNSPS,Pães,2,8.5
+2025-01-27,Disk-Pão,Salgados,4,6.0
+2025-05-17,Rainha da Paz,Bebidas,6,7.0
+2025-04-08,Uberlândia,Salgados,1,6.0
+2025-11-20,Rainha da Paz,Bebidas,9,7.0
+2025-04-15,QPão,Pães,12,8.5
+2025-07-30,Rainha da Paz,Bebidas,3,7.0
+2025-11-26,Uberlândia,Salgados,1,6.0
+2025-10-09,Disk-Pão,Bolos,8,25.0
+2025-08-01,PNSPS,Salgados,5,6.0
+2025-05-11,Uberlândia,Salgados,11,6.0
+2025-05-03,Uberlândia,Salgados,9,6.0
+2025-12-09,QPão,Bebidas,3,7.0
+2025-11-26,QPão,Bolos,4,25.0
+2025-09-14,Rainha da Paz,Bebidas,4,7.0
+2025-08-20,Uberlândia,Salgados,7,6.0
+2025-03-13,Disk-Pão,Bolos,2,25.0
+2025-03-31,Rainha da Paz,Salgados,2,6.0
+2025-06-13,PNSPS,Bolos,5,25.0
+2025-10-19,QPão,Bolos,12,25.0
+2025-07-31,Uberlândia,Bebidas,12,7.0
+2025-09-26,Uberlândia,Bolos,5,25.0
+2025-06-23,Uberlândia,Pães,5,8.5
+2025-10-22,Disk-Pão,Salgados,11,6.0
+2025-09-15,QPão,Bolos,5,25.0
+2025-05-08,Uberlândia,Bebidas,11,7.0
+2025-08-17,PNSPS,Bebidas,1,7.0
+2025-03-07,Uberlândia,Pães,12,8.5
+2025-08-31,QPão,Bebidas,2,7.0
+2025-07-20,Uberlândia,Bebidas,4,7.0
+2025-02-25,Disk-Pão,Bolos,3,25.0
+2025-09-25,Uberlândia,Pães,2,8.5
+2025-10-10,QPão,Pães,3,8.5
+2025-04-30,PNSPS,Pães,3,8.5
+2025-11-17,Rainha da Paz,Salgados,11,6.0
+2025-08-12,QPão,Pães,2,8.5
+2025-06-03,Uberlândia,Bolos,5,25.0
+2025-04-25,QPão,Pães,9,8.5
+2025-06-04,PNSPS,Bebidas,6,7.0
+2025-11-27,Uberlândia,Bolos,9,25.0
+2025-05-01,QPão,Bolos,7,25.0
+2025-12-27,QPão,Salgados,1,6.0
+2025-04-10,Uberlândia,Bebidas,2,7.0
+2025-05-12,Uberlândia,Bolos,6,25.0
+2025-04-27,QPão,Bebidas,12,7.0
+2025-06-23,PNSPS,Bebidas,11,7.0
+2025-07-22,QPão,Bolos,5,25.0
+2025-09-16,Disk-Pão,Pães,8,8.5
+2025-04-13,Disk-Pão,Salgados,4,6.0
+2025-08-27,PNSPS,Bolos,5,25.0
+2025-02-25,Rainha da Paz,Bebidas,3,7.0
+2025-04-25,Uberlândia,Bebidas,11,7.0
+2025-01-29,Uberlândia,Bolos,1,25.0
+2025-04-20,Rainha da Paz,Pães,3,8.5
+2025-08-01,QPão,Pães,3,8.5
+2025-07-21,PNSPS,Bebidas,12,7.0
+2025-02-27,Disk-Pão,Pães,6,8.5
+2025-04-08,Rainha da Paz,Bolos,12,25.0
+2025-08-28,PNSPS,Pães,11,8.5
+2025-07-13,PNSPS,Salgados,8,6.0
+2025-03-28,QPão,Pães,2,8.5
+2025-05-24,PNSPS,Pães,7,8.5
+2025-03-05,Uberlândia,Bolos,6,25.0
+2025-06-08,QPão,Bebidas,1,7.0
+2025-12-28,Disk-Pão,Bebidas,6,7.0
+2025-10-05,Disk-Pão,Bebidas,6,7.0
+2025-07-06,QPão,Bebidas,11,7.0
+2025-07-30,Uberlândia,Bolos,1,25.0
+2025-07-12,Uberlândia,Pães,2,8.5
+2025-02-01,Disk-Pão,Salgados,12,6.0
+2025-02-02,PNSPS,Salgados,5,6.0
+2025-06-21,PNSPS,Pães,12,8.5
+2025-12-20,PNSPS,Salgados,5,6.0
+2025-01-02,QPão,Pães,4,8.5
+2025-02-24,Uberlândia,Bebidas,7,7.0
+2025-05-09,Uberlândia,Bebidas,3,7.0
+2025-09-12,QPão,Bolos,12,25.0
+2025-06-05,Rainha da Paz,Bolos,4,25.0
+2025-06-17,Uberlândia,Salgados,6,6.0
+2025-11-02,Rainha da Paz,Pães,4,8.5
+2025-07-20,Disk-Pão,Bolos,7,25.0
+2025-02-03,Uberlândia,Pães,9,8.5
+2025-10-06,Disk-Pão,Salgados,7,6.0
+2025-02-23,PNSPS,Pães,10,8.5
+2025-02-13,QPão,Bolos,7,25.0
+2025-09-13,Disk-Pão,Bebidas,4,7.0
+2025-03-10,Uberlândia,Bebidas,10,7.0
+2025-12-12,Rainha da Paz,Bolos,11,25.0
+2025-03-04,PNSPS,Salgados,5,6.0
+2025-10-18,PNSPS,Salgados,5,6.0
+2025-05-14,Uberlândia,Bolos,4,25.0
+2025-04-06,Disk-Pão,Bolos,3,25.0
+2025-05-25,PNSPS,Bolos,2,25.0
+2025-07-22,Disk-Pão,Salgados,9,6.0
+2025-09-27,QPão,Bolos,11,25.0
+2025-08-26,QPão,Pães,1,8.5
+2025-09-01,Uberlândia,Bolos,6,25.0
+2025-01-21,Disk-Pão,Salgados,2,6.0
+2025-01-26,Rainha da Paz,Bolos,10,25.0
+2025-04-10,PNSPS,Pães,9,8.5
+2025-04-02,Rainha da Paz,Bebidas,5,7.0
+2025-12-07,QPão,Pães,11,8.5
+2025-11-02,Disk-Pão,Salgados,1,6.0
+2025-07-08,Disk-Pão,Salgados,1,6.0
+2025-04-15,QPão,Salgados,10,6.0
+2025-11-30,QPão,Bolos,6,25.0
+2025-07-29,Disk-Pão,Salgados,10,6.0
+2025-06-09,Disk-Pão,Pães,1,8.5
+2025-09-11,QPão,Bebidas,7,7.0
+2025-02-21,Rainha da Paz,Bebidas,3,7.0
+2025-11-24,Disk-Pão,Pães,7,8.5
+2025-12-23,Uberlândia,Salgados,5,6.0
+2025-12-08,Uberlândia,Salgados,1,6.0
+2025-06-09,Uberlândia,Salgados,7,6.0
+2025-01-10,Disk-Pão,Salgados,7,6.0
