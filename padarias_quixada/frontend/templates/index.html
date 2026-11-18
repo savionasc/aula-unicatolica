@@ -11,9 +11,9 @@
     form { display: flex; gap: 12px; margin-bottom: 20px; }
     select, button { padding: 8px 12px; font-size: 16px; border-radius: 6px; border: 1px solid #b8c4d2; }
     button { background: #2e86ab; color: #fff; border: 0; cursor: pointer; }
-    .kpis { display: grid; grid-template-columns: repeat(3, 1fr); gap: 16px; margin-bottom: 20px; }
+    .filtross { display: grid; grid-template-columns: repeat(3, 1fr); gap: 16px; margin-bottom: 20px; }
     .card { background: #fff; border-radius: 10px; padding: 16px; box-shadow: 0 1px 4px rgba(0,0,0,.08); }
-    .kpi small { color: #5b6b7f; } .kpi div { font-size: 28px; font-weight: bold; }
+    .filtro small { color: #5b6b7f; } .filtro div { font-size: 28px; font-weight: bold; }
     table { width: 100%; border-collapse: collapse; }
     th, td { text-align: left; padding: 8px; border-bottom: 1px solid #e1e8ef; }
     th { color: #5b6b7f; }
@@ -34,10 +34,10 @@
       <button type="submit">Filtrar</button>
     </form>
 
-    <section class="kpis">
-      <div class="card kpi"><small>Receita total</small><div>R$ {{ '%.2f'|format(dados.kpis.receita_total) }}</div></div>
-      <div class="card kpi"><small>Pedidos</small><div>{{ dados.kpis.pedidos }}</div></div>
-      <div class="card kpi"><small>Ticket médio</small><div>R$ {{ '%.2f'|format(dados.kpis.ticket_medio) }}</div></div>
+    <section class="filtross">
+      <div class="card filtro"><small>Receita total</small><div>R$ {{ '%.2f'|format(dados.filtro.receita_total) }}</div></div>
+      <div class="card filtro"><small>Pedidos</small><div>{{ dados.filtro.pedidos }}</div></div>
+      <div class="card filtro"><small>Ticket médio</small><div>R$ {{ '%.2f'|format(dados.filtro.ticket_medio) }}</div></div>
     </section>
 
     <section class="card" style="margin-bottom:20px">

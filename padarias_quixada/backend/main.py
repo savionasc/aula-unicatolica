@@ -39,7 +39,7 @@ def vendas(padaria: Optional[str] = None, produto: Optional[str] = None):
     ultimas["data"] = ultimas["data"].dt.strftime("%d/%m/%Y")
 
     return {
-        "kpis": {
+        "filtro": {
             "receita_total": float(df["receita"].sum()),
             "pedidos": int(len(df)),
             "ticket_medio": float(df["receita"].mean()) if len(df) else 0.0,
